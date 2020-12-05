@@ -14,6 +14,9 @@ As of recent, I've seen multiple Discord communities I have been a part of been 
 * `mall message` - short for message all, messages every member in a guild with a message of your choice.
 * `dall condition` - short for delete all, deletes every condition stated. Conditions currently include; `channels`, `roles`, `emojis` and `all`.
 * `destroy` - deletes everything possible, then bans every member in the server as long as you have permission.
+* **NEW** `populate name amount` - generates specified amount of channels with given name.
+* **NEW** `name new_name` - renames guild to given name.
+* **NEW** `spam name message amount` - populate except it puts a message inside each channel it generates.
 
 ## Setup
 Download the files for the bot and make sure Python 3.7 is installed.
